@@ -43,19 +43,19 @@ body{
 @media (max-width: 500px) {
     .container{
         height: 300px;
-        width: 400px;
+        width: 350px;
         margin-top: 300px;
-        margin-right: 10px;
+        
     }
     .container h1{
         color: white;
         margin-top: 5px;
-        font-size: 40px;
+        font-size: 30px;
     }
     .container h3{
         color: white;
         font-size: 30px;
-        margin-top: 55px;
+        margin-top: 45px;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         
 
