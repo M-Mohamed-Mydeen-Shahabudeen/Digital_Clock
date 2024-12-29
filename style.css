@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: rgb(153, 153, 230);
+    
+
+}
+.container{
+    background-color: rgb(6, 2, 2);
+    height: 200px;
+    width: 300px;
+    position: relative;
+    margin: auto;
+    border-radius: 13px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.1), -2px -2px 6px rgba(255, 255, 255, 0.6);
+}
+#clock{
+    font-size: 30px;
+    color: white;
+    
+   
+
+
+}
+
+#dates{
+    font-size: 15px;
+    color: white;
+    margin-top: 45px;
+    margin-left: -10px;
+}
+
+.container h1{
+    color: white;
+    margin-top: 5px;
+}
+.container h3{
+    color: white;
+}
